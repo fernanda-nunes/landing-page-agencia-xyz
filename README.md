@@ -26,46 +26,47 @@ Cabeçalho com nome e um menu de navegação para as sessões da página.
 - <strong>Hero Section:</strong> 
  Conteúdo que fica visivel quando acessa a página. 
 
-- <strong>Sections:</strong> About, Services e Projects;
-Sessoes com informações sobre a agência.
+- <strong>Sections - About, Services e Projects: </strong>
+Sessões com informações sobre a agência.
 
 - <strong>Footer:</strong>
   Rodapé com outro menu de navegação e links para redes sociais.
 
 ### Capturas de tela 
 
-*Preview - Desktop: <br>
-  <img src="./src/images/Preview-desktop.png" width="50%">
+*Preview - Desktop: <br><br>
+  <img src="./src/images/Preview-desktop.png" width="80%">
 <br>
 
-Preview - interações: <br>
-  <img src="./src/images/Preview-interações-desktop.png" width="50%">
+Preview - Desktop com interações: <br><br>
+  <img src="./src/images/Preview-interações-desktop.png" width="80%">
 
 *Preview - Sections:
-<br>
-About:
-<br>
+<br><br>
+About Section:
+<br><br>
   <img src="./src/images/Preview-about.png" width="50%">
 
-Services e Projects:
-<br>
+Services e Projects Sections:
+<br><br>
   <img src="./src/images/preview-services-projects.png" width="50%">
 
-- <strong>Footer:</strong> 
-<br>
+Footer: 
+<br><br>
   <img src="./src/images/preview-footer.png" width="50%">
-<br>
-*Preview - Tablet: <br>
+<br><br>
+
+*Preview - Tablet: <br><br>
   <img src="./src/images/Preview-mobile-tablet.png" width="50%">
   <br>
-*Preview - mobile: <br>
+*Preview - mobile: <br><br>
   <img src="./src/images/Preview-mobile.png" width="50%">
   
 ### Links 
 <br>
 <ul>
 <li><a href="https://github.com/fernanda-nunes/landing-page-agencia-xyz" target="_blank"> Repositórios</a></li>
-<li><a href="" target="_blank"> Site ao vivo</a></li>
+<li><a href="https://fernanda-nunes.github.io/landing-page-agencia-xyz/#about" target="_blank"> Site ao vivo</a></li>
 </ul>
 <br>
 
