@@ -38,7 +38,7 @@ Sessões com informações sobre a agência.
   <img src="./src/images/Preview-desktop.png" width="80%">
 <br>
 
-Preview - Desktop com interações: <br><br>
+*Preview - Desktop com interações: <br><br>
   <img src="./src/images/Preview-interações-desktop.png" width="80%">
 
 *Preview - Sections:
